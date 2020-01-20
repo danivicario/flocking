@@ -1,0 +1,23 @@
+{
+  "name": "flocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prussian-blue/flocking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prussian-blue/flocking/issues"
+  },
+  "homepage": "https://github.com/prussian-blue/flocking#readme",
+  "dependencies": {
+    "p5": "^0.10.2"
+  }
+}
